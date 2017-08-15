@@ -3,5 +3,7 @@
 *.log
 *.js.meta
 node_modules/
-build/
 .idea
+;Ignore the below once/if I get Travis set up
+;vr/static_assets
+;build/
